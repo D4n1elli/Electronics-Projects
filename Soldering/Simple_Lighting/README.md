@@ -1,4 +1,5 @@
 # Simple Flashlight 🔦
+This project was made on 02/04/2026 and comitted on 03/04/2026
 
 ## How it works
 The energy goes from the positive (+) side of the battery, traveling through the wire on the back and into the button. If the button isn't pressed, the energy stops there and nothing happens. Else, if it is pressed, the 3v go through the button and to the resistor, then to the LED positive side, lighting it up. The energy then goes to the negative (-) side of the LED, going to another wire that is connected to the negative side of the battery, closing the circuit. 
