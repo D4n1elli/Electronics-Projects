@@ -1,7 +1,7 @@
 # Electronics Projects
 
-My personal electronics projects I made to learn building circuits
-The projects includes:
+Physical projects I made to further practice electronics, critical thinking and my creativity.
+Each project folder includes:
 - Photos
 - Descriptions
 - Components used
